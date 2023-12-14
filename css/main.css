@@ -1,0 +1,25 @@
+/* A lighter navbar colour */
+.light-nav {
+    background-color: rgb(89, 53, 119);
+
+}
+
+/* Make a bolder and robotic font */
+.navbar-brand-items {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.main-content {
+    background-image: url('../images/homepage_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    
+
+
+  }
